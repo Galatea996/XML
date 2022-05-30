@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Skills>
+	<skill1>Git</skill1>
+	<skill2>GitHab</skill2>
+	<skill3>API via Postman</skill3>
+	<skill4>Charles and Fiddler</skill4>
+	<skill5>Dev Tools</skill5>
+	<skill6>VPN</skill6>
+	<skill7>Mobile testing</skill7>
+	<skill8>Feature iOS, Android, guidelines</skill8>
+	<skill9>Building iOS Apps with Xcode</skill9>
+	<skill10>Building Android Applications with Android Studio</skill10>
+	<skill11>ADB (android device management)</skill11>
+	<skill12>Setting up proxy and vpn on iOS and Android</skill12>
+	<skill13>Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android</skill13>
+	<skill14>Load Testing in Jmeter</skill14>
+	<skill15>Scrum Development Methodology</skill15>
+</Skills>
