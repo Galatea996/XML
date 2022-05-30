@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bag>
+  <Bag id>25</Bag id>
+  <Title>At any size of the widget right and left white dash lines are not displayed</Title>
+  <Severity>Major</Severity>
+  <Priority>Medium</Priority>
+  <Environment>Huawei P30</Environment>
+  <Precondition>Open app</Precondition>
+  <STR>Click on the “Add widget” button</STR>
+  <STR>Click on the widget to atlarge it</STR>
+  <AR>Right and left white dash lines are not visible at any size of widget</AR>
+  <ER>All boundary lines of widget are visible</ER>
+</Bag>
